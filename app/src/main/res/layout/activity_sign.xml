@@ -33,6 +33,7 @@
             />
     </LinearLayout>
     <com.suhun.draw.SignView
+        android:id="@+id/lid_sign_view"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="11"
